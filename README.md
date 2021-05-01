@@ -1,14 +1,13 @@
 ### Hi there, I'm Raihan hosen 👋
 
-[![Twitter Follow](https://ps.w.org/twitter-cards-meta/assets/icon-3x3.png?rev=2123066)](https://twitter.com/raihanhosen01)
+[![Twitter Follow]<img src="https://cdn4.iconfinder.com/data/icons/bettericons/354/twitter-circle-512.png" alt="codeSTACKr Spotify Playing" width="23px" />](https://twitter.com/raihanhosen01)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Developer , Student and Content Creator!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I’m currently learning Redux 🤣
+- 👯 I’m looking to collaborate with other programmers
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to editing and 
 
 ### Spotify Playing 🎧
 
