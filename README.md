@@ -1,6 +1,6 @@
 ### Hi there, I'm Raihan hosen 👋
 
-[![Twitter Follow]<img src="https://cdn4.iconfinder.com/data/icons/bettericons/354/twitter-circle-512.png" alt="codeSTACKr Spotify Playing" width="23px" />](https://twitter.com/raihanhosen01)
+[<img src="https://cdn4.iconfinder.com/data/icons/bettericons/354/twitter-circle-512.png" alt="codeSTACKr Spotify Playing" width="23px" />](https://twitter.com/raihanhosen01)
 
 ## I'm a Developer , Student and Content Creator!!
 
