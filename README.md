@@ -13,10 +13,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="raihanhosen01 | Facebook" width="22px" src="https://cdn0.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-facebook-2019-circle-512.png" />][youtube]
-[<img align="left" alt="raihanhosen01 | Twitter" width="22px" src="https://www.freeiconspng.com/uploads/logo-twitter-circle-png-transparent-image-1.png" />][https://twitter.com/raihanhosen01]
+[<img align="left" alt="raihanhosen01 | Facebook" width="22px" src="https://cdn0.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-facebook-2019-circle-512.png" />][facebook]
+[<img align="left" alt="raihanhosen01 | Twitter" width="22px" src="https://www.freeiconspng.com/uploads/logo-twitter-circle-png-transparent-image-1.png" />][twitter]
 [<img align="left" alt="raihanhosen01 | LinkedIn" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/linkedin_circle-512.png" />][linkedin]
 [<img align="left" alt="raihanhosen01 | Instagram" width="22px" src="https://img.pngio.com/circle-colored-gradient-instagram-media-social-social-media-icon-instagram-circle-png-512_512.png" />][instagram]
+[<img align="left" alt="raihanhosen01 | Youtube" width="22px" src="https://cdn0.iconfinder.com/data/icons/social-15/200/youtube-icon-512.png" />][youtube]
 
 <br />
 
@@ -94,10 +95,11 @@
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/raihanhosen01
+[facebook]: https://facebook.com/raihanhosen01
+[youtube]: https://youtube.com/channel/UCOV0rVxwdzEdGbdbZ1vbPwg
+[instagram]: https://instagram.com/raihanhosen01
+[linkedin]: https://linkedin.com/in/raihanhosen01
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
