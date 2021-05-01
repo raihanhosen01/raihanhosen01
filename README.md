@@ -2,7 +2,7 @@
 
 ## I'm a Developer , Student and Content Creator!!
  
-- 🌱 I’m currently learning Redux 🤣
+- 🌱 I’m currently learning Redux 
 - 🥅 2021 Goals: Completing Web Development
 - ⚡ Fun fact: I love to editing and reading
 
