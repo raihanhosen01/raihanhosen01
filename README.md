@@ -1,6 +1,6 @@
 ### Hi there, I'm Raihan hosen 👋
 
-[![Twitter Follow](https://ps.w.org/twitter-cards-meta/assets/icon-256x256.png?rev=2123066)](https://twitter.com/raihanhosen01)
+[![Twitter Follow](https://ps.w.org/twitter-cards-meta/assets/icon-3x3.png?rev=2123066)](https://twitter.com/raihanhosen01)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
