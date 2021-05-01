@@ -1,7 +1,7 @@
 ### Hi there, I'm Raihan hosen 👋
 
 ## I'm a Developer , Student and Content Creator!!
-
+ 
 - 🌱 I’m currently learning Redux 🤣
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -32,6 +32,8 @@
 
 <br />
 <br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
