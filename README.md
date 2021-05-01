@@ -4,7 +4,7 @@
  
 - 🌱 I’m currently learning Redux 🤣
 - 👯 I’m looking to collaborate with other programmers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Completing Web Development
 - ⚡ Fun fact: I love to editing and reading
 
 ### Connect with me:
@@ -34,6 +34,8 @@
 <br />
 
 ![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raihanhosen01&show_icons=true&theme=radical)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
