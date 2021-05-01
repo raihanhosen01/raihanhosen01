@@ -33,7 +33,7 @@
 <br />
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raihanhosen01&show_icons=true&theme=radical)
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
