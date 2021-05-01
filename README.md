@@ -1,7 +1,5 @@
 ### Hi there, I'm Raihan hosen 👋
 
-[<img src="https://cdn4.iconfinder.com/data/icons/bettericons/354/twitter-circle-512.png" alt="codeSTACKr Spotify Playing" width="23px" />](https://twitter.com/raihanhosen01)
-
 ## I'm a Developer , Student and Content Creator!!
 
 - 🌱 I’m currently learning Redux 🤣
@@ -15,11 +13,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="raihanhosen01 | Facebook" width="22px" src="https://cdn0.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-facebook-2019-circle-512.png" />][youtube]
+[<img align="left" alt="raihanhosen01 | Twitter" width="22px" src="https://www.freeiconspng.com/uploads/logo-twitter-circle-png-transparent-image-1.png" />][twitter]
+[<img align="left" alt="raihanhosen01 | LinkedIn" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/linkedin_circle-512.png" />][linkedin]
+[<img align="left" alt="raihanhosen01 | Instagram" width="22px" src="https://i.pinimg.com/736x/24/37/73/2437730f7e3a5705e205e67fa2cd1020.jpg" />][raihanhose]
 
 <br />
 
